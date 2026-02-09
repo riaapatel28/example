@@ -27,6 +27,7 @@ public:
     average =(m1 +m2 +m3)/3;
      }
     void display(){
+    cout<<"-----result-----\n";
     cout<<"Roll No:"<<rollno;
     cout<<"\nName:"<<name;
     cout<<"\nMarks:"<<m1<<","<<m2<<","<<m3;
